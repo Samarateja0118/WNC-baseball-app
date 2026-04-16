@@ -131,6 +131,7 @@ Expected tables and columns:
 - Export functionality
 - Real-time updates via WebSockets
 - Machine learning predictions
+## by samarateja
 
 ## License
 
