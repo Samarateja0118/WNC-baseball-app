@@ -1,2 +1,5 @@
-backend/mlb_data/pitches.db
-backend/mlb_data/pitches.db
+node_modules/
+.DS_Store
+backend/mlb_data/sqlite-tools-*/
+.env
+dist/
